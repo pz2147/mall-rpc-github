@@ -1,1 +1,1 @@
-mall-rpc-github
+mall-rpc
