@@ -6,9 +6,9 @@ package server
 import (
 	"context"
 
-	"go-zero-demo/mall/user/rpc/internal/logic"
-	"go-zero-demo/mall/user/rpc/internal/svc"
-	"go-zero-demo/mall/user/rpc/user"
+	"github.com/pz2147/mall-rpc-github/internal/logic"
+	"github.com/pz2147/mall-rpc-github/internal/svc"
+	"github.com/pz2147/mall-rpc-github/user"
 )
 
 type UserServer struct {

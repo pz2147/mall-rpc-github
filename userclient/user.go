@@ -8,7 +8,7 @@ package userclient
 import (
 	"context"
 
-	"go-zero-demo/mall/user/rpc/user"
+	"github.com/pz2147/mall-rpc-github/user"
 
 	"github.com/tal-tech/go-zero/zrpc"
 )

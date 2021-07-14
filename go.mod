@@ -1,4 +1,4 @@
-module go-zero-demo/mall/user/rpc
+module github.com/pz2147/mall-rpc-github
 
 go 1.16
 
